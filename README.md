@@ -1,2 +1,2 @@
-# Consumer-Goods-SQL-PowerBI
+Data Analysis using SQL & Power BI Project.
 
